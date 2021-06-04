@@ -638,13 +638,6 @@ During the Ceremony, Corps members with outstanding performance during Service y
             </div>
           </div>
 
-          <div class="col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="info-box ">
-              <i class="bx bx-phone-call"></i>
-              <h3>Call Us</h3>
-              <p>+234 803 371 2729<br>+234 701 000 4449</p>
-            </div>
-          </div>
 
           <div class="col-lg-12" data-aos="fade-up" data-aos-delay="300">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
